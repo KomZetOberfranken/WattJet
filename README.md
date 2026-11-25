@@ -61,4 +61,5 @@ Watt Jet wird kostenlos als ausführbare Anwendung bereitgestellt. Der Quellcode
 Als angehendes Kompetenzzentrum für Brennstoffzellen, Wasserstofftechnologien und intelligente Ladesysteme im Handwerk an der Handwerkskammer für Oberfranken versuchen wir, die Sektorkopplung voranzubringen. Ein Baustein dabei ist unser Kurs zum "Sektorkopplungsmanager/in (HWK)", bei dem Watt Jet einen Teil des Unterrichts ausmacht zur Darstellung energetischer Abläufe in Gebäuden. 
 
 Unser Vorhaben ist gefördert vom Bundesministerium für Wirtschaft und Energie sowie dem Bayerischen Staatsministerium für Wirtschaft, Landesentwicklung und Energie. 
-**Eirobieren, kombinieren und entdecken, wie Sektorkopplung funktioniert!**
+
+**Einfach ausprobieren, kombinieren und entdecken, wie Sektorkopplung funktioniert!**
