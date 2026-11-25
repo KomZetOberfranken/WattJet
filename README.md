@@ -44,7 +44,7 @@ Weitere Level und Anwendungsszenarien sind geplant. Dazu gehören beispielsweise
 
 Die aktuelle Version von Watt Jet steht kostenlos zum Download bereit.
 
-**[Zu den Downloads / Releases](HIER-DEIN-GITHUB-RELEASE-LINK-EINFÜGEN)**
+**[Zu den Downloads / Releases](https://github.com/KomZetOberfranken/WattJet/releases/tag/Version0.1)**
 
 Dort findest du die jeweils verfügbaren Programmversionen und Informationen zu den Änderungen.
 
@@ -56,4 +56,9 @@ Watt Jet wurde mit der Open-Source-Engine **Godot 4** entwickelt. Die aktuelle V
 
 Watt Jet wird kostenlos als ausführbare Anwendung bereitgestellt. Der Quellcode und die Entwicklungsdateien sind nicht Bestandteil der Veröffentlichung. Das Spiel ist proprietäre Software und kein Open-Source-Projekt.
 
-**Einfach ausprobieren, kombinieren und entdecken, wie Sektorkopplung funktioniert!**
+## Wer wir sind
+
+Als angehendes Kompetenzzentrum für Brennstoffzellen, Wasserstofftechnologien und intelligente Ladesysteme im Handwerk an der Handwerkskammer für Oberfranken versuchen wir, die Sektorkopplung voranzubringen. Ein Baustein dabei ist unser Kurs zum "Sektorkopplungsmanager/in (HWK)", bei dem Watt Jet einen Teil des Unterrichts ausmacht zur Darstellung energetischer Abläufe in Gebäuden. 
+
+Unser Vorhaben ist gefördert vom Bundesministerium für Wirtschaft und Energie sowie dem Bayerischen Staatsministerium für Wirtschaft, Landesentwicklung und Energie. 
+**Eirobieren, kombinieren und entdecken, wie Sektorkopplung funktioniert!**
