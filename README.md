@@ -7,6 +7,8 @@ Watt Jet - das interaktive Simulationsspiel der Sektorkopplung
 
 Watt Jet ist ein spielerischer Energiesimulator, der die Zusammenhänge der Sektorkopplung anschaulich und interaktiv vermittelt. Statt nur theoretisch über Energiewende und Energiemanagement zu sprechen, kannst du verschiedene Technologien miteinander kombinieren, Einstellungen verändern und direkt beobachten, welche Auswirkungen deine Entscheidungen haben.
 
+![Cover](Cover.png)
+
 ## Was erwartet dich?
 
 Ausgangspunkt ist aktuell ein Einfamilienhaus, dessen Energieversorgung du Schritt für Schritt gestalten kannst. Dafür stehen dir verschiedene Komponenten zur Verfügung:
